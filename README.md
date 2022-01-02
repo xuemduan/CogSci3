@@ -20,4 +20,4 @@
 
 ### Put the downloaded fastText file into the data folder
 
-## 2. Run 
+## 3. Run ATS_gaze_features.ipynb
