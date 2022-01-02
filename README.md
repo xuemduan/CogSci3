@@ -2,7 +2,7 @@
 
 **This code is for the report of Abstractive Automatic Text Summarization with Eye-tracking Data.
 
-# 1. Datasets
+## 1. Datasets
 
 **Amazon Fine Food Reviews Dataset [download](https://www.kaggle.com/snap/amazon-fine-food-reviews)**
 
@@ -12,12 +12,12 @@
 
 **GECO [download](https://expsy.ugent.be/downloads/geco/)**
 
-## Put the downloaded datasets into the data folder
+### Put the downloaded datasets into the data folder
 
-# 2. fastText word embedding
+## 2. fastText word embedding
 
 **fastText [download](https://fasttext.cc/docs/en/english-vectors.html)**
 
-## Put the downloaded fastText file into the data folder
+### Put the downloaded fastText file into the data folder
 
-# 2. Run 
+## 2. Run 
